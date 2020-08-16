@@ -1,6 +1,6 @@
 {
-  "short_name": "Marlon Secundo",
-  "name": "Marlon Secundo Portifolio",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
