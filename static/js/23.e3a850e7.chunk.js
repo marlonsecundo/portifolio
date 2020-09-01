@@ -1,2 +1,0 @@
-(this.webpackJsonpportifolio=this.webpackJsonpportifolio||[]).push([[23],{98:function(o,p,i){o.exports=i.p+"static/media/typescript-logo.de67947c.png"}}]);
-//# sourceMappingURL=23.e3a850e7.chunk.js.map
