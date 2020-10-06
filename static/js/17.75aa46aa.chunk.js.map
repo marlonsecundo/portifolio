@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/images/techs/mongodb-logo.png"],"names":["module","exports"],"mappings":"6FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/17.75aa46aa.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/mongodb-logo.9d8ae7c2.png\";"],"sourceRoot":""}
