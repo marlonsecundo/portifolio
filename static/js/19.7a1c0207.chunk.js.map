@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/images/techs/postgres-logo.png"],"names":["module","exports"],"mappings":"6FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/19.7a1c0207.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/postgres-logo.5a1b1dcb.png\";"],"sourceRoot":""}

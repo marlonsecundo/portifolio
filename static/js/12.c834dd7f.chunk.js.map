@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/images/techs/gatsby-logo.png"],"names":["module","exports"],"mappings":"6FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/12.c834dd7f.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/gatsby-logo.4a977354.png\";"],"sourceRoot":""}
