@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.05d6f62c.chunk.js",
-    "main.js.map": "./static/js/main.05d6f62c.chunk.js.map",
+    "main.js": "./static/js/main.9ca4ef02.chunk.js",
+    "main.js.map": "./static/js/main.9ca4ef02.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.68b6d87b.js",
     "runtime-main.js.map": "./static/js/runtime-main.68b6d87b.js.map",
     "static/css/2.bfee9830.chunk.css": "./static/css/2.bfee9830.chunk.css",
@@ -52,14 +52,14 @@
     "static/js/24.896d9565.chunk.js": "./static/js/24.896d9565.chunk.js",
     "static/js/24.896d9565.chunk.js.map": "./static/js/24.896d9565.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.e1d2185555d5989aca5d3ed17bea6fec.js": "./precache-manifest.e1d2185555d5989aca5d3ed17bea6fec.js",
+    "precache-manifest.1f3435200a21a74ce8470481702929d6.js": "./precache-manifest.1f3435200a21a74ce8470481702929d6.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.bfee9830.chunk.css.map": "./static/css/2.bfee9830.chunk.css.map",
     "static/js/2.dab2f2d5.chunk.js.LICENSE.txt": "./static/js/2.dab2f2d5.chunk.js.LICENSE.txt",
-    "static/media/46497.png": "./static/media/46497.f7652e0e.png",
     "static/media/adonis-logo.png": "./static/media/adonis-logo.78603854.png",
     "static/media/aedes.png": "./static/media/aedes.37f8b918.png",
     "static/media/anotai.png": "./static/media/anotai.bf18cda4.png",
+    "static/media/background.png": "./static/media/background.f7652e0e.png",
     "static/media/css-logo.png": "./static/media/css-logo.27bf9824.png",
     "static/media/docker-logo.png": "./static/media/docker-logo.ceaebb6b.png",
     "static/media/ela.png": "./static/media/ela.3e5caf80.png",
@@ -99,6 +99,6 @@
     "static/js/runtime-main.68b6d87b.js",
     "static/css/2.bfee9830.chunk.css",
     "static/js/2.dab2f2d5.chunk.js",
-    "static/js/main.05d6f62c.chunk.js"
+    "static/js/main.9ca4ef02.chunk.js"
   ]
 }
