@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/images/techs/logo-instagram.png"],"names":["module","exports"],"mappings":"6FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/16.5beaa1ed.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/logo-instagram.573c5793.png\";"],"sourceRoot":""}
